@@ -4,35 +4,35 @@ const products = [
     id: 1,
     name: "Wireless Headphones",
     price: 1999,
-    image: "../Images/headphone.jpg",
+    image: "Images/headphone.jpg",
     desc: "Bluetooth over-ear headphones with noise cancellation"
   },
   {
     id: 2,
     name: "Smartwatch",
     price: 2999,
-    image: "../Images/smartwatch.jpg",
+    image: "Images/smartwatch.jpg",
     desc: "Water-resistant smartwatch with fitness tracking and alerts"
   },
   {
     id: 3,
     name: "Sneakers",
     price: 2499,
-    image: "../Images/sneakers.jpg",
+    image: "Images/sneakers.jpg",
     desc: "Comfortable daily wear sneakers with breathable mesh"
   },
   {
     id: 4,
     name: "Backpack",
     price: 1499,
-    image: "../Images/backpack.jpg",
+    image: "Images/backpack.jpg",
     desc: "Spacious backpack with laptop compartment and USB port"
   },
   {
     id: 5,
     name: "Sunglasses",
     price: 999,
-    image: "../Images/sunglasses.jpg",
+    image: "Images/sunglasses.jpg",
     desc: "UV-protected stylish unisex sunglasses for all seasons"
   }
 ];
